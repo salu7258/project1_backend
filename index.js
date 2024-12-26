@@ -20,11 +20,11 @@ app.get('/products',(req,res)=>{
     [
         {
         "prod_name" : "Apple Watch",
-        "prod_price": $25,
+        "prod_price": "$25",
         },
         {
         "prod_name" : "Samsung Watch",
-        "prod_price": $20
+        "prod_price": "$20",
         }
 
 
